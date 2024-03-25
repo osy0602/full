@@ -17,3 +17,6 @@ c/**/*
 ## java
 **/*.class
 
+## scala
+scala/**/project
+scala/**/target
